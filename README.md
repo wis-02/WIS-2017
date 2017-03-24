@@ -20,7 +20,7 @@ source bin/activate
 ```
 * clone the code from github
 ```shell
-https://github.com/wis-02/WIS-2017.git
+git clone https://github.com/wis-02/WIS-2017.git
 ```
 * go to app folder and install the dependencies
 ```shell
