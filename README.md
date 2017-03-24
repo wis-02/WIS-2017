@@ -13,7 +13,7 @@ source bin/activate
 ```
 * clone the code from github
 ```shell
-git clone https://github.com/dithua/WIS-2017.git
+https://github.com/wis-02/WIS-2017.git
 ```
 * go to app folder and install the dependencies
 ```shell
