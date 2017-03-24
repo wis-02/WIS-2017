@@ -1,10 +1,10 @@
-# Web Information Systems Lab (2017)
+#Based on Web Information Systems Lab (2017)
 
 How to clone the project
 
-* create a virtual environment
+* create a virtual environment by using python 3.6 only
 ```shell
-virtualenv -p python3 postsapp
+virtualenv postsapp
 ```
 * go inside the virtualenv and activate it
 ```shell
