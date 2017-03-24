@@ -9,10 +9,13 @@ virtualenv postsapp
 * go inside the virtualenv and activate it
 ```shell
 cd postsapp
-
-*and  activate it(windows)
+```
+* and  activate it(windows)
+```shell
 Scripts\activate.bat
-*and  activate it(linux)
+```
+* and  activate it(linux)
+```shell
 source bin/activate
 ```
 * clone the code from github
